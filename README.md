@@ -1,6 +1,6 @@
 # get-instagram-profile-avatar
 Download Instagram profile photo via high speed api
-
+Created at [inbo](https://inbo.ir)
 
 Use this api via browser
 
